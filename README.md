@@ -1,4 +1,6 @@
-### Hi there 👋 I'm server application developer using nodejs and python.
+### > introduce grayber
+
+Hi there 👋 I'm server application developer using nodejs and python.
 
 <!--
 **grayber/grayber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Skills
 
-#### Platforms & Languages
+### > ls using-languages
 
-Linux, Nodejs, python
+Nodejs, python
+
